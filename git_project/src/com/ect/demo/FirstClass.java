@@ -11,4 +11,9 @@ public class FirstClass {
         System.out.println("git project");
         System.out.println("git project");
     }
+
+    public static void getValue(){
+        int a = 0;
+
+    }
 }
