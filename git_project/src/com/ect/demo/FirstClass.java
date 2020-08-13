@@ -14,6 +14,6 @@ public class FirstClass {
 
     public static void getValue(){
         int a = 0;
-        System.out.println("你好啊");
+        System.out.println("修改列");
     }
 }
